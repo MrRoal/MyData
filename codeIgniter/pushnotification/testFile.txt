@@ -1,0 +1,5 @@
+action==>register
+vDevicename==>Android
+vType==>Android
+vDeviceid==>373b268d459d8ccd
+deviceToken==>APA91bFXZJO6WT4ZMGAEwA_abo0Up_S1higetB56ZwEq5Nye8ktw1AGeTe3282Cl_nw-EZ3_2ybXIys6mDlEv4sxY0aoo_FiQ4V5DggYP2nq8Ft4zfkN6Khf1cw69_myxcx4yA3jT60ixZu8-tlZWX_KPHtYBHEbzg
